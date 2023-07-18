@@ -1,8 +1,9 @@
 # af-magic-loskir.zsh-theme
 # Repo: https://github.com/loskir/zsh-themes
+# Direct Link: https://github.com/Loskir/zsh-themes/blob/main/af-magic-loskir.zsh-theme
 # Based on af-magic
-# Original Repo: https://github.com/andyfleming/oh-my-zsh
-# Original Direct Link: https://github.com/andyfleming/oh-my-zsh/blob/master/themes/af-magic.zsh-theme
+# Original Repo: https://github.com/ohmyzsh/ohmyzsh
+# Original Direct Link: https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme
 
 # primary prompt
 PS1="$FG[032]%~ ${FG[105]}%(!.#.»)%{$reset_color%} "

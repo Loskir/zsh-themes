@@ -2,7 +2,7 @@
 
 Zsh themes I use
 
-# af-magic-loskir
+# [af-magic-loskir](https://github.com/Loskir/zsh-themes/blob/main/af-magic-loskir.zsh-theme)
 
 <img width="682" alt="image" src="https://github.com/Loskir/zsh-themes/assets/21295738/082246bd-63a6-476f-bb5a-014584eca9c8">
 
